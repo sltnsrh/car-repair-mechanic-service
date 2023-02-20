@@ -1,4 +1,4 @@
-package com.ssalatin.mechanicservice;
+package com.salatin.mechanicservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
